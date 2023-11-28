@@ -1,0 +1,1 @@
+channel_link: str = 'https://www.youtube.com/channel/UCJ8Dcdd7eG-KU29WIybLQbQ'
